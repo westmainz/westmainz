@@ -1,9 +1,10 @@
 - 👋 Hi, I’m westmainz.
 - 👀 I'm happy to see you here.
 - 🌱 I’m currently learning Linux and it's derivatives.
-- 📫 How to reach me 
-okikiwest@gmail.com...
-@westmainz on Twitter.
+- ✍️ Aspiring to become a server manager 😁
+- 📫 Reach me 
+okikiwest@gmail.com
+@westmainz on Twitter
 
 <!---
 westmainz/westmainz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
