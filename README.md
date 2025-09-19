@@ -1,10 +1,10 @@
-- 👋 Hi, I’m westmainz.
-- 👀 I'm happy to see you here.
-- 🌱 I’m currently learning Linux and it's derivatives.
-- ✍️ Aspiring to become a server manager 😁
-- 📫 Reach me 
+- 👋 Hi, I’m westmainz!
+- 👀 I'm happy to see you here🙂
+- 🌱 I’m currently learning data anylysis🧐
+- ✍️ Aspiring to become a data analyst😁
+- 📫 You can contact me here or via email and X app
 okikiwest@gmail.com
-@westmainz on Twitter
+@westmainz on X
 
 <!---
 westmainz/westmainz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
